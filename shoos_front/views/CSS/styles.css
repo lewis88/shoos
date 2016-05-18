@@ -1,0 +1,18 @@
+h1 {
+  color: #f67b7d;
+  font-family: cursive;
+}
+
+p {
+  color: #f67b7d;
+  display: inline-block;
+  font-size: 40 px;
+  font-family: fantasy;
+  /*text-transform: uppercase;
+  text-decoration: line-through;
+  text-decoration: underline;*/
+}
+
+body {
+  background-color: black;
+}
